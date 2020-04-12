@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  StoryFunctions.cpp
+C:\Users\agcga\source\repos\HeaderAndSourceAssignment\HeaderAndSourceAssignment\StoryFunctions.cpp(147,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  HeaderAndSourceAssignment.vcxproj -> C:\Users\agcga\source\repos\HeaderAndSourceAssignment\Debug\HeaderAndSourceAssignment.exe
